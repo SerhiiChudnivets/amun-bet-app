@@ -71,7 +71,7 @@
   "login_text": "Sign in",
   "register_text": "Sign up",
   "slots_title": "Games at Amunbet",
-  "bonus_title": "450% Welcome Package",
+  "bonus_title": "Amunbet Casino Bonus",
   "get_bonus_btn_text": "Claim Bonus",
   "redirect_link": "/play/",
   "home_name": "Amunbet Casino",
@@ -245,8 +245,8 @@
       "question": "Is Amun Bet the same casino as Amunbet?"
     }
   ],
-  "_generated_at": "2026-11-23T01:39:32.698Z",
+  "_generated_at": "2026-11-23T11:46:40.727Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-23T01:39:33.305Z",
-  "_deploy_trigger": "tvhcrr"
+  "_last_deploy": "2026-11-23T11:46:41.410Z",
+  "_deploy_trigger": "h3s1ol"
 }
